@@ -15,16 +15,16 @@
   border-color: #111111;
 }
 .btn.btn-info {
-  background-color: #27aae0;
-  border-color: #27aae0;
+  background-color: #00bcd4;
+  border-color: #00bcd4;
 }
 .btn.btn-info:hover,
 .btn.btn-info:focus,
 .btn.btn-info.focus,
 .btn.btn-info:active,
 .btn.btn-info.active {
-  background-color: #177aa3;
-  border-color: #177aa3;
+  background-color: #007888;
+  border-color: #007888;
 }
 .btn.btn-success {
   background-color: #7ac673;
@@ -66,7 +66,7 @@
   color: #29d9c2 !important;
 }
 .text-info {
-  color: #27aae0 !important;
+  color: #00bcd4 !important;
 }
 .text-success {
   color: #7ac673 !important;
